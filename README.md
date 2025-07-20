@@ -1,7 +1,7 @@
 # mcode
-mcode is new computer language for the web and for vector computation.  The current implementation is a transpiler to Javascript.  The software is licensed as open source under Apace 2.0
+mcode is a new computer language for the web and for vector computation. mcode is based on the tradition of APL, which is an early array based language. The current implementation is a transpiler to Javascript, and the software is licensed as open source under Apace 2.0
 
-This software is hosted here:
+Hosted here:
 
 **<https://daveremba.com/mcode>**
 
